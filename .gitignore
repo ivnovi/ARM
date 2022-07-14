@@ -5,6 +5,7 @@
 *.suo
 *.user
 *.sln.docstates
+TODO.md
 
 # Build results
 [Dd]ebug/
